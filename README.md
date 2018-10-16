@@ -1,1 +1,1 @@
-# usb_cam-2
+### 这是关于ROS系统的示例代码，主要与之前的mbot_description相互使用，通过这个包打开mbot_description中的机器人模型，并且在gazebo环境下显示，并且稳定站立等，之后会提供mbot_teleop，用来控制机器人的运动
